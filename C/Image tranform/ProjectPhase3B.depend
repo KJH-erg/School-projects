@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1511390686 source:c:\users\kjh\desktop\projectphase3b\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1511509141 source:c:\users\s1155096482\downloads\projectphase3b (2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1511594532 source:c:\users\kjh\desktop\drive-download-20171124t185400z-001\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
